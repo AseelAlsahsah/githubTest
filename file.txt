@@ -1,2 +1,2 @@
-Line 1: This is some content by Developer 1.
-Line 2: More content added by Developer 1.
+Line 1: This content is by Developer 1.
+Line 2: More content by Developer 1.
